@@ -5,7 +5,9 @@ const App = () => {
 
   return(
     <>
-      <Person />
+      <Person 
+        name = 'Elon Musk'
+      />
     </>
   )
 }
